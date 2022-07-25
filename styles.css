@@ -95,3 +95,32 @@
 .author {
     align-self: flex-end;
 }
+
+.section3 {
+    background-color: #3882f6;
+    border-radius: 15px;
+    padding: 50px;
+    margin: 100px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sign-up-button {
+    font-size: 20px;
+    align-self: center;
+    justify-self: flex-end;
+    color: white;
+    background-color: #3882f6;
+    border-color: white;
+    border-style: solid;
+    border-radius: 8px;
+}
+
+.footer {
+    background-color: #1f2937;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
